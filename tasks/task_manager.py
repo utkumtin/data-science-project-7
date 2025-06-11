@@ -26,7 +26,7 @@ def house_with_most_students(house_dict):
     pass
 
 
-#6. student_summary fonksiyonu student_tuple isminide tuple tipindedir. içeriği (namge, age, house) şeklindedir.
+#6. student_summary fonksiyonu student_tuple isminide tuple tipindedir. içeriği (name, age, house) şeklindedir.
 #Örnek Değeri student_tuple = ('Harry', 15, 'Gryffindor') şeklindedir.
 #Fonskiyon bu tuple değerinden şu şekilde bir string değerini dönmelidir. 'Harry, age 15, is in Gryffindor.'
 def student_summary(student_tuple):
